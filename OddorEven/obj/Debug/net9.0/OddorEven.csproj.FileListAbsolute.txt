@@ -12,3 +12,18 @@ C:\Users\Dell\Documents\DotNetFiles\Cotrol Flow Statements\OddorEven\obj\Debug\n
 C:\Users\Dell\Documents\DotNetFiles\Cotrol Flow Statements\OddorEven\obj\Debug\net9.0\OddorEven.pdb
 C:\Users\Dell\Documents\DotNetFiles\Cotrol Flow Statements\OddorEven\obj\Debug\net9.0\OddorEven.genruntimeconfig.cache
 C:\Users\Dell\Documents\DotNetFiles\Cotrol Flow Statements\OddorEven\obj\Debug\net9.0\ref\OddorEven.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\bin\Debug\net9.0\OddorEven.exe
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\bin\Debug\net9.0\OddorEven.deps.json
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\bin\Debug\net9.0\OddorEven.runtimeconfig.json
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\bin\Debug\net9.0\OddorEven.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\bin\Debug\net9.0\OddorEven.pdb
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.AssemblyInfoInputs.cache
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.AssemblyInfo.cs
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.csproj.CoreCompileInputs.cache
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.sourcelink.json
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\refint\OddorEven.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.pdb
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\OddorEven.genruntimeconfig.cache
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\OddorEven\obj\Debug\net9.0\ref\OddorEven.dll
