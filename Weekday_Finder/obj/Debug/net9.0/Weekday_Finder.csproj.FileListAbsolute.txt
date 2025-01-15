@@ -1,0 +1,15 @@
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\bin\Debug\net9.0\Weekday_Finder.exe
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\bin\Debug\net9.0\Weekday_Finder.deps.json
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\bin\Debug\net9.0\Weekday_Finder.runtimeconfig.json
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\bin\Debug\net9.0\Weekday_Finder.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\bin\Debug\net9.0\Weekday_Finder.pdb
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.AssemblyInfoInputs.cache
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.AssemblyInfo.cs
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.csproj.CoreCompileInputs.cache
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.sourcelink.json
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\refint\Weekday_Finder.dll
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.pdb
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\Weekday_Finder.genruntimeconfig.cache
+C:\Users\bradley.onyango\Desktop\Bradley Onyango\C#\C-Sharp-Solutions\Weekday_Finder\obj\Debug\net9.0\ref\Weekday_Finder.dll
